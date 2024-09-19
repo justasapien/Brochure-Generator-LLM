@@ -56,7 +56,7 @@ The frontend UI consists of the following components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ram-Goyal-73/Brochure-Generator.git
+   git clone https://github.com/justasapien/Brochure-Generator-LLM.git
    cd Brochure-Generator
    ```
 
